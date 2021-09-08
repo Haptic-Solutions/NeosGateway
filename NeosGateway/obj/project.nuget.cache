@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ISwgZV3UHpzPqN2wmY5m3gHp6Fl0nfiY820NltTjJGURHnFreEhdsW8coq/hd3CWgZzlN0F8tOD0gr7JoHopiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\peter\\source\\repos\\NeosGateway\\NeosGateway\\NeosGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peter\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

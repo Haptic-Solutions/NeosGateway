@@ -1,0 +1,15 @@
+C:\Users\peter\source\repos\NeosGateway\NeosGateway\bin\Debug\netcoreapp3.1\NeosGateway.exe
+C:\Users\peter\source\repos\NeosGateway\NeosGateway\bin\Debug\netcoreapp3.1\NeosGateway.deps.json
+C:\Users\peter\source\repos\NeosGateway\NeosGateway\bin\Debug\netcoreapp3.1\NeosGateway.runtimeconfig.json
+C:\Users\peter\source\repos\NeosGateway\NeosGateway\bin\Debug\netcoreapp3.1\NeosGateway.runtimeconfig.dev.json
+C:\Users\peter\source\repos\NeosGateway\NeosGateway\bin\Debug\netcoreapp3.1\NeosGateway.dll
+C:\Users\peter\source\repos\NeosGateway\NeosGateway\bin\Debug\netcoreapp3.1\NeosGateway.pdb
+C:\Users\peter\source\repos\NeosGateway\NeosGateway\bin\Debug\netcoreapp3.1\websocket-sharp.dll
+C:\Users\peter\source\repos\NeosGateway\NeosGateway\obj\Debug\netcoreapp3.1\NeosGateway.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\NeosGateway\NeosGateway\obj\Debug\netcoreapp3.1\NeosGateway.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\NeosGateway\NeosGateway\obj\Debug\netcoreapp3.1\NeosGateway.AssemblyInfo.cs
+C:\Users\peter\source\repos\NeosGateway\NeosGateway\obj\Debug\netcoreapp3.1\NeosGateway.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\NeosGateway\NeosGateway\obj\Debug\netcoreapp3.1\NeosGateway.csproj.CopyComplete
+C:\Users\peter\source\repos\NeosGateway\NeosGateway\obj\Debug\netcoreapp3.1\NeosGateway.dll
+C:\Users\peter\source\repos\NeosGateway\NeosGateway\obj\Debug\netcoreapp3.1\NeosGateway.pdb
+C:\Users\peter\source\repos\NeosGateway\NeosGateway\obj\Debug\netcoreapp3.1\NeosGateway.genruntimeconfig.cache
